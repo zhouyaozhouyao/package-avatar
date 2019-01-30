@@ -1,0 +1,17 @@
+{
+    "name": "zhouyao/avatar",
+    "description": " 根据名字姓氏生成图片",
+    "lincense": "MIT",
+    "authors": [
+        {
+            "name": "zhouyao",
+            "email": "994914376@qq.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Cxp\\Avatar\\": "src"
+      }
+    },
+    "require": {}
+}
